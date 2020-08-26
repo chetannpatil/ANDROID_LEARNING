@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">TestSpinner</string>
+    <string name="test">TEST</string>
+    <string name="pass_message">Pass Message</string>
+    <string name="enter_your_messgae_here_amp_click_quot_press_message_quot_button_to_see_it_on_next_page"><![CDATA[Enter your messgae here & click \"press message \" button to see it on next page]]></string>
+
+
+    <string-array name="saLondiya">
+
+        <item>ITEMS</item>
+        <item>Monika</item>
+        <item>Vidya</item>
+        <item>Soujanya</item>
+        <item>Dhanashree</item>
+        <item>Sneha</item>
+        <item>Lolita</item>
+        <item>Pushpa</item>
+        <item>Divya</item>
+        <item>Anjali</item>
+        <item>Arohi</item>
+        <item>Roshni</item>
+        <item>Rashmi</item>
+        <item>Drushti</item>
+
+    </string-array>
+</resources>

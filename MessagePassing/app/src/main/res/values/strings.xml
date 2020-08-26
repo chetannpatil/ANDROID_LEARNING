@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MessagePassing</string>
+    <string name="credits">CREDITS</string>
+    <string name="click_to_send_message_via_any_messanger">click to send message via any messanger</string>
+    <string name="send_a_greeting_to_your_loved_one">Send a greeting to your loved one</string>
+    <string name="image_of_a_founder">IMAGE OF A FOUNDER</string>
+    <string name="chetan_patil">CHETAN PATIL</string>
+    <string name="_50_compert_zone_pg_1st_block_rajaji_nagara_bengaluru">#50,Compert zone PG 1st Block Rajaji Nagara ,Bengaluru</string>
+    <string name="find_me_on">Find me on :</string>
+    <string name="_91_9742179809">+91-9742179809</string>
+    <string name="chetu_is_gmail_com">chetu.is@gmail.com</string>
+    <string name="back">BACK</string>
+    <string name="designed_amp_developed_by"><![CDATA[Designed & Developed By :]]></string>
+    <string name="backToMainMenu">BACK</string>
+</resources>

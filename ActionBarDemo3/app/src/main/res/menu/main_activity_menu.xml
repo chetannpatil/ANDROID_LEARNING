@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/info_id"
+
+        android:title="INfo"
+        android:icon="@mipmap/ic_info_outline_white_36dp"
+        app:showAsAction="always" >
+    </item>
+
+    <item android:id="@+id/setting_id"
+        android:title="seTtiGS"
+        android:icon="@mipmap/ic_settings_white_36dp"
+        app:showAsAction="always"  >
+    </item>
+
+    <item android:id="@+id/search_bar_id"
+        android:title="SCROLL"
+        android:icon="@mipmap/ic_menu_black_24dp"
+        app:showAsAction="always"  >
+    </item>
+    <item android:id="@+id/scrollView_id"
+        android:title="SCROLL"
+        android:icon="@mipmap/ic_more_vert_black_24dp"
+        app:showAsAction="always"  >
+    </item>
+
+
+</menu>

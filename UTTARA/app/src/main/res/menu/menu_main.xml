@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+
+   >
+    <item android:id="@+id/share"
+        android:title="INQUIRY"
+        android:orderInCategory="1"
+        app:showAsAction="always">
+
+    </item>
+    <item android:id="@+id/search"
+        android:title="CONTACT US"
+        android:orderInCategory="2"
+        app:showAsAction="always">
+
+    </item>
+
+    <item android:id="@+id/toGoogle"
+        android:title="SEARCH"
+        android:orderInCategory="3"
+        app:showAsAction="always">
+
+    </item>
+    <item android:id="@+id/addToCart"
+        android:title="SHARE ABOUT US STO FRIENDS"
+        android:orderInCategory="4"
+        app:showAsAction="always"
+        >
+
+    </item>
+
+</menu>

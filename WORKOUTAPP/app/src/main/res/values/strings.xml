@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">WORK OUT APP</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="titl">TITL</string>
+    <string name="description">description</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="some_sample_text_of_nested_fragment">SOME SAMPLE TEXT OF NESTED FRAGMENT</string>
+    <string name="show_message">SHOW MESSAGE</string>
+    <string name="enter_any_input">enter any input</string>
+    <string name="to_a2">To A2</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="a2StringArray">
+        <item>priya</item>
+        <item>urvashi</item>
+        <item>seema</item>
+        <item>dhanya</item>
+        <item>kamakhsi</item>
+    </string-array>
+
+</resources>

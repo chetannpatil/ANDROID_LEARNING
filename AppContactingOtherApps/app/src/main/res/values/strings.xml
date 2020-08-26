@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AppContactingOtherApps</string>
+    <string name="send_a_message">SEND A MESSAGE</string>
+    <string name="camera">CAMERA</string>
+    <string name="activity_2">ACTIVITY 2</string>
+    <string name="explictintnt">ExplictIntnt</string>
+    <string name="eter_ur_message_here">ETER UR MESSAGE HERE</string>
+</resources>

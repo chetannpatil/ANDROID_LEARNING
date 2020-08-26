@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SampleLoginApp</string>
+    <string name="login_text">LOGIN PAGE</string>
+    <string name="username_text">USERNAME</string>
+    <string name="password_text">PASSWORD</string>
+    <string name="attempts_text">Attempts</string>
+    <string name="login_button">LOGIN</string>
+    <string name="second_page_text">WELCOME TO SECOND PAGE</string>
+    <string name="logout_text">LogOut</string>
+    <string name="switch_image_text">switch image</string>
+</resources>

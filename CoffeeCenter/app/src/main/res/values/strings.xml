@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Coffee Center</string>
+    <string name="coffe_center_owner_image">Coffe Center Owner image</string>
+    <string name="enter_choice_amp_click_here"><![CDATA[enter choice & click here]]></string>
+    <string name="show_lv_item">show LV item</string>
+
+    <string-array name="cheesesArray">
+        <item>Drinks</item>
+        <item>Food</item>
+        <item>Ice-Creams</item>
+        <item>Store</item>
+    </string-array>
+
+    <string-array name="babesArray">
+        <item>Anushka</item>
+        <item>Shradha</item>
+        <item>Parinneti</item>
+        <item>milla</item>
+        <item>serena</item>
+        <item>maria</item>
+        <item>veena</item>
+        <item>sabaa</item>
+        <item>chamanapreet</item>
+    </string-array>
+</resources>

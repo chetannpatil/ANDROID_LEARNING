@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">AppOne</string>
+    <string name="open_activity1_app1">OPEN ACTIVITY1 APP1</string>
+    <string name="app_1_main_acitivity">APP 1 MAIN ACITIVITY</string>
+    <string name="camera">CAMERA</string>
+    <string name="owned">owned</string>
+    <string name="acitivity_1_app_1">ACITIVITY 1 APP 1</string>
+    <string name="submit">submit</string>
+    <string name="nationality">NATIONALITY</string>
+    <string name="broadcast_intent">BROADCAST INTENT</string>
+
+    <string-array name="countyArray">
+        <item>AFGAN</item>
+        <item>ARAB</item>
+        <item>AUSTRALIA</item>
+        <item>BARMUDA</item>
+        <item>CANADA</item>
+        <item>DAMAN</item>
+        <item>GREECE</item>
+        <item>GREEN LAND</item>
+        <item>INDIA</item>
+        <item>INDONESIA</item>
+        <item>ISRAIL</item>
+        <item>LAXEMBERG</item>
+
+    </string-array>
+</resources>

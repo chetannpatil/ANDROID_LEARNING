@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    android:orientation="vertical"
+    android:baselineAligned="false">
+
+
+    <Button
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/to_a2"
+        android:id="@+id/btnToA2"
+        android:layout_gravity="bottom"
+        android:onClick="toActivity2" />
+
+    <fragment
+
+        android:layout_width="match_parent"
+        android:layout_height="428dp"
+        android:name="layout.WNamesListFragment"
+        android:id="@+id/mAOfSmallScreensFrag" />
+
+
+</LinearLayout>

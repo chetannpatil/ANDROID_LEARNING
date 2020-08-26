@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">E SHOP</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="top_frag">TOP FRAG</string>
+
+    <string-array name="arrayOfoptionsOfDrawer">
+        <item>HOME</item>
+        <item>MEN\'S WEAR</item>
+        <item>WOMEN\'S WEAR</item>
+        <item>STORE</item>
+        <item>KID\'S WEAR</item>
+        <item>ELECTRONICS</item>
+        <item>OTHERS</item>
+        <item>F.A.Q</item>
+        <item>SETTINGS</item>
+        <item>ABOUT</item>
+        <item>ETC</item>
+        <item>SAMPLE ORDERS</item>
+        <item>OUR PARTENRS</item>
+        <item>CONTRIBUTERS</item>
+        <item>RATINGS</item>
+    </string-array>
+
+    <string-array name="arrayOfStore">
+        <item>exchange items</item>
+        <item>walvets</item>
+        <item>watches</item>
+        <item>ohers</item>
+    </string-array>
+
+    <string-array name="arrayOfA2">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+    </string-array>
+
+
+    <string-array name="arrayOfLvOfDispOfA2">
+        <item>we</item>
+        <item>have</item>
+        <item>not</item>
+        <item>yet</item>
+        <item>added</item>
+        <item>anything</item>
+        <item>for</item>
+        <item>this</item>
+
+    </string-array>
+    <string name="openDrawer">open drawer</string>
+    <string name="closeDrawer">close drawer</string>
+</resources>

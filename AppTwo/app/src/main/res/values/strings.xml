@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">AppTwo</string>
+    <string name="open_activity_1_app_1">OPEN ACTIVITY 1 APP 1</string>
+    <string name="app2_main_actvity">APP2 MAIN ACTVITY</string>
+    <string name="e">E</string>
+    <string name="click_here_to_move_toa2">click here to move toA2 :)</string>
+    <string name="hmmmmmm">hmmmmmm</string>
+    <string name="enter_1_number">enter 1 number</string>
+
+    <array name="sa">
+        <item>CHETAN</item>
+        <item>mann</item>
+
+    </array>
+    <array name="ia2">
+        <item>2</item>
+        <item>8</item>
+    </array>
+    <integer-array name="ia">
+        <item>2</item>
+        <item>8</item>
+    </integer-array>
+</resources>

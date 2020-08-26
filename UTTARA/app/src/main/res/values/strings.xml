@@ -1,0 +1,69 @@
+<resources>
+    <string name="app_name">UTTARA</string>
+
+    <string-array name="sampleSA">
+        <item>Lenovo</item>
+        <item>Dell</item>
+        <item>Toshiba</item>
+        <item>HP</item>
+        <item>HCL</item>
+        <item>Sony</item>
+        <item>Micromax</item>
+        <item>Acer</item>
+        <item>Asus</item>
+        <item>Compac</item>
+        <item>Wipro</item>
+        <item>Infosys</item>
+        <item>Logitech</item>
+        <item>UltraTech</item>
+    </string-array>
+    <string-array name="featuresSA">
+        <item>cost:20000</item>
+        <item>ram  :4gb</item>
+        <item>freq "2ghz</item>
+        <item>cost:20000</item>
+        <item>HDD  :400gb</item>
+        <item>display hd</item>
+        <item>cost:20000</item>
+        <item>ram  :4gb</item>
+        <item>freq "2ghz</item>
+        <item>cost:20000</item>
+        <item>ram  :4gb</item>
+        <item>freq "2ghz</item>
+        <item>cost:20000</item>
+        <item>ram  :4gb</item>
+        <item>freq "2ghz</item>
+
+    </string-array>
+    <string-array name="buySA">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <string name="small_text_r_3">Small Text r 3</string>
+    <string name="medium_text_r2">Medium Text r2</string>
+    <string name="large_text_row_1">Large Text row 1</string>
+    <string name="brands_frag">Brands frag</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="ma">ma</string>
+    <string name="lauyoyt_of_bf">lauyoyt of bF</string>
+</resources>
